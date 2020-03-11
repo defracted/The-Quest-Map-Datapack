@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Your current score is:","bold":true,"color":"green"},{"text":" "},{"score":{"name":"@s","objective":"PlayerScore"},"bold":true,"color":"red","hoverEvent":{"action":"show_text","value":"This number represent the amount of points which you can get by completing levels."}}]
