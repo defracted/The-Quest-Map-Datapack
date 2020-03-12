@@ -1,0 +1,1 @@
+tag @a[team=Players] add FindWhiskers

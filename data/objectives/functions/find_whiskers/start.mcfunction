@@ -1,0 +1,3 @@
+execute as @a[team=Players] at @a[team=Players] run playsound minecraft:block.anvil.place ambient @s ~ ~ ~ 255 2
+execute as @a[team=Players] at @a[team=Players] run playsound entity.player.levelup ambient @s ~ ~ ~ 255 2
+execute as @a[team=Players] at @a[team=Players] run tellraw @s ["",{"text":"\n"},{"text":"NEW OBJECTIVE:","bold":true,"color":"gold"},{"text":"\n"},{"text":"+ Find your cat Whiskers","color":"aqua"},{"text":"\n "}]
