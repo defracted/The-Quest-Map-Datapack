@@ -1,0 +1,1 @@
+tellraw @a {"text":"- Whiskers! Where are you?","color":"yellow"}

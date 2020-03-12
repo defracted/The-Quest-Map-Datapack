@@ -1,0 +1,1 @@
+tellraw @a {"text":"- Wait a second...","color":"yellow"}

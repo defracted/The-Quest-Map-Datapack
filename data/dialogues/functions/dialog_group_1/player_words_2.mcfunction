@@ -1,0 +1,1 @@
+tellraw @a {"text":"- It was a really rough day.","color":"yellow"}
