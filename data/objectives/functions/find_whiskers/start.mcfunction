@@ -1,3 +1,4 @@
-execute as @a[team=Players,tag=FindWhiskers] at @a[team=Players,tag=FindWhiskers] if entity @a[team=Players,tag=FindWhiskers] run playsound minecraft:block.anvil.place ambient @s ~ ~ ~ 255 2
-execute as @a[team=Players,tag=FindWhiskers] at @a[team=Players,tag=FindWhiskers] if entity @a[team=Players,tag=FindWhiskers] run playsound entity.player.levelup ambient @s ~ ~ ~ 255 2
-execute as @a[team=Players,tag=FindWhiskers] at @a[team=Players,tag=FindWhiskers] if entity @a[team=Players,tag=FindWhiskers] run tellraw @s ["",{"text":"\n"},{"text":"NEW OBJECTIVE:","bold":true,"color":"gold"},{"text":"\n"},{"text":"+ Find your cat Whiskers","color":"aqua"},{"text":"\n "}]
+execute as @a[team=Players] at @a[team=Players] run playsound minecraft:block.anvil.place ambient @a[team=Players] ~ ~ ~ 255 2
+execute as @a[team=Players] at @a[team=Players] run playsound entity.player.levelup ambient @a[team=Players] ~ ~ ~ 255 2
+execute as @a[team=Players] at @a[team=Players] run tellraw @a[team=Players] ["",{"text":"\n"},{"text":"NEW OBJECTIVE:","bold":true,"color":"gold"},{"text":"\n"},{"text":"+ Find your cat Whiskers","color":"aqua"},{"text":"\n "}]
+tag @a[team=Players,tag=StartedFindWhiskers] remove StartedFindWhiskers
