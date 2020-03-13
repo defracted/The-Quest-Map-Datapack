@@ -1,0 +1,2 @@
+# Gives a bonus item
+/give @p minecraft:emerald{BonusItem:1, display:{Name:"[{\"text\":\"Bonus Points\",\"color\":\"green\",\"bold\":true}]",Lore:["{\"text\":\"This item gives you 10 additional points!\",\"color\":\"yellow\"}"]},Unbreakable:1,HideFlags:7}
