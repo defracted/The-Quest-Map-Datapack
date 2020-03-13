@@ -1,2 +1,1 @@
-# Will summon a bonus item
 summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:emerald",Count:1b,tag: {BonusItem: 1, display:{Name:"[{\"text\":\"Bonus Points\",\"color\":\"green\",\"bold\":true}]",Lore:["{\"text\":\"This item gives you 10 additional points!\",\"color\":\"yellow\"}"]}}}}
