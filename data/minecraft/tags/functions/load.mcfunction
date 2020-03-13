@@ -1,0 +1,1 @@
+setworldspawn -2 79 4
