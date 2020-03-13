@@ -1,1 +1,1 @@
-scoreboard players reset @s PlayerScore
+scoreboard players reset @s Points

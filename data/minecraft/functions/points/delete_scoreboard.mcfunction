@@ -1,1 +1,1 @@
-scoreboard objectives remove PlayerScore
+scoreboard objectives remove Points
