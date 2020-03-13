@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Your final score is:","bold":true,"color":"green"},{"text":" "},{"score":{"name":"@s","objective":"Points"},"bold":true,"color":"red"}]
