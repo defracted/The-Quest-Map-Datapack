@@ -1,5 +1,5 @@
-execute as @s at @s run schedule function dialogues:dialog_group_2/words_1 0s
-execute as @s at @s run schedule function dialogues:dialog_group_2/words_2 1s
+execute as @s at @s run schedule function dialogues:dialog_group_2/words_1 1s
+execute as @s at @s run schedule function dialogues:dialog_group_2/words_2 2s
 execute as @s at @s run schedule function dialogues:dialog_group_2/words_3 3s
 execute as @s at @s run schedule function dialogues:dialog_group_2/words_4 4s
 execute as @s at @s run schedule function dialogues:dialog_group_2/words_5 6s
