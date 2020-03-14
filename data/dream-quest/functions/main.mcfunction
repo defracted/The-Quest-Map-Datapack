@@ -1,3 +1,11 @@
+# ------------------------------------------------------------- #
+#                                                               #
+#    THIS DATAPACK WAS MADE FOR A MAP: THE CAT'S DREAM QUEST    #
+#                                                               #
+# -------------------------- AUTHOR --------------------------- #
+#    MINECRAFT USERNAME: Defracted7                             #
+# ------------------------------------------------------------- #
+
 
 
 # Detects bonus items in player's inventory
