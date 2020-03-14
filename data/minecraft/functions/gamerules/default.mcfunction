@@ -6,6 +6,3 @@ gamerule doWeatherCycle false
 gamerule doPatrolSpawning false
 gamerule disableRaids true
 gamerule doFireTick false
-
-weather clear
-time set day
