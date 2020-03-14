@@ -1,1 +1,1 @@
-tellraw @a {"text":"- Sure! You can ask anything!","color":"yellow"}
+tellraw @a {"text":"- But I always wanted you to be happy!","color":"yellow"}
