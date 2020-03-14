@@ -1,0 +1,1 @@
+tellraw @a {"text":"- What is going on? How can you talk?!","color":"yellow"}

@@ -1,0 +1,1 @@
+tellraw @a {"text":"- What? But why?","color":"yellow"}

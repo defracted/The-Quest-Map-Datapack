@@ -1,0 +1,1 @@
+tellraw @a {"text":"- No, I guess.","color":"yellow"}

@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"- What do you mean by \"","color":"dark_green"},{"text":"what","italic":true,"color":"dark_green"},{"text":"\"?","color":"dark_green"}]
+playsound minecraft:entity.cat.ambient ambient @a ~ ~ ~ 200

@@ -1,0 +1,1 @@
+tellraw @a {"text":"- I am still astonished by the fact that you are able to talk.","color":"yellow"}

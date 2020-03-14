@@ -1,0 +1,1 @@
+tellraw @a {"text":"- But I always wanted you to be happy!","color":"yellow"}
