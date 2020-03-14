@@ -1,0 +1,1 @@
+/execute if entity @a[nbt=!{foodLevel:20}, tag=!StopAntiHunger] if entity @a[nbt=!{foodLevel:19}, tag=!StopAntiHunger] run effect give @p minecraft:saturation 1 255
