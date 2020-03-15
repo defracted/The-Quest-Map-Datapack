@@ -1,3 +1,5 @@
+execute as @s at @s run schedule function dialogues:dialog_group_2/first 1t
+
 # Oh, Whiskers! Here you are
 execute as @s at @s run schedule function dialogues:dialog_group_2/words_1 1s
 # What are you dong here? Let's come back home!
