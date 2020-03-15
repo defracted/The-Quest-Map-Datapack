@@ -7,6 +7,11 @@ function points:delete_scoreboard
 # Deletes all tasks from tags
 tag @s remove FindWhiskers
 tag @s remove FinishedFindWhiskers
+tag @s remove StartedFindWhiskers
+
+tag @s remove GoBackHome
+tag @s remove FinishedGoBackHome
+tag @s remove StartedGoBackHome
 
 # Setting up team and gamemode
 team leave @s
