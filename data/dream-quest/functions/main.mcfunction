@@ -16,3 +16,6 @@ function listeners:particles
 
 # Detects hunger and heals
 function listeners:anti_hunger
+
+# Special effects for parkour levels
+function listeners:parkour_buffs
