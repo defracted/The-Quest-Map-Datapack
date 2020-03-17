@@ -1,5 +1,5 @@
 # Hides Whiskers name
-data merge entity @e[tag=Whiskers, type=cat, sort=nearest, limit=1] {CustomNameVisible:0}
+execute in minecraft:overworld run data merge entity @e[tag=Whiskers, type=cat, sort=nearest, limit=1] {CustomNameVisible:0}
 
 # Deletes scoreboards
 function points:delete_scoreboard
