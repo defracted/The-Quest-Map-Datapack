@@ -18,3 +18,6 @@ tag @s remove ParkourLevel
 # Setting up team and gamemode
 team leave @s
 gamemode adventure @s
+
+# Resets player counter
+scoreboard players set @a PlayersInGame 0
