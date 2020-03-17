@@ -1,1 +1,2 @@
+# Generates particles for dropped bonus item
 execute as @e[type=minecraft:item, nbt={Item: {tag: {BonusItem: 1}}}] at @e[type=minecraft:item, nbt={Item: {tag: {BonusItem: 1}}}] run particle minecraft:happy_villager ~ ~ ~ 1 2 1 1 2

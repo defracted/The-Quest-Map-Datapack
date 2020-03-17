@@ -1,1 +1,2 @@
+# Restores palyer's hunger level if they don't have tag "StopAntiHunger" and if foodLevel is lower than 16
 execute if entity @a[nbt=!{foodLevel:20}, tag=!StopAntiHunger] if entity @a[nbt=!{foodLevel:19}, tag=!StopAntiHunger] if entity @a[nbt=!{foodLevel:18}, tag=!StopAntiHunger] if entity @a[nbt=!{foodLevel:17}, tag=!StopAntiHunger] if entity @a[nbt=!{foodLevel:16}, tag=!StopAntiHunger] run effect give @a[tag=!StopAntiHunger] minecraft:saturation 1 255
