@@ -20,3 +20,6 @@ function listeners:anti_hunger
 # Special effects for parkour levels
 function listeners:parkour/buffs
 function listeners:parkour/particles
+
+# Shows number of points
+function listeners:hotbar_points
