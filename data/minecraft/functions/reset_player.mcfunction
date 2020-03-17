@@ -13,6 +13,8 @@ tag @s remove GoBackHome
 tag @s remove FinishedGoBackHome
 tag @s remove StartedGoBackHome
 
+tag @s remove ParkourLevel
+
 # Setting up team and gamemode
 team leave @s
 gamemode adventure @s
