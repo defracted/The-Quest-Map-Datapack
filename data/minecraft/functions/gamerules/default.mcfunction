@@ -6,3 +6,4 @@ gamerule doWeatherCycle false
 gamerule doPatrolSpawning false
 gamerule disableRaids true
 gamerule doFireTick false
+gamerule spawnRadius 1
