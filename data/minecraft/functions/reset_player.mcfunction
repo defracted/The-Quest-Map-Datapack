@@ -17,10 +17,6 @@ tag @s remove ParkourLevel
 
 # Setting up team and gamemode
 team leave @s
-gamemode adventure @s
 
 # Resets player counter
-# scoreboard players set @a PlayersInGame 0
-
-# Resets starting repeater
-setblock 10 80 0 minecraft:repeater[facing=west] replace
+scoreboard players set %DummyPlayer% PlayersInGame 0
