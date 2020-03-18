@@ -19,4 +19,5 @@ tag @s remove ParkourLevel
 team leave @s
 
 # Resets player counter
-scoreboard players set %DummyPlayer% PlayersInGame 0
+# function scoreboards:playercounter/remove
+# function scoreboards:playercounter/create
