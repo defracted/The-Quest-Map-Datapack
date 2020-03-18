@@ -18,6 +18,6 @@ tag @s remove ParkourLevel
 # Setting up team and gamemode
 team leave @s
 
-# Resets player counter
-# function scoreboards:playercounter/remove
-# function scoreboards:playercounter/create
+# Destroys player counter and creates it back
+function scoreboards:playercounter/remove
+function scoreboards:playercounter/create
